@@ -1,10 +1,10 @@
-# Translation of Odoo Server.
+# Translation of Eagle ERP Server.
 # This file contains the translation of the following modules:
 #	* website
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Odoo Server 12.0\n"
+"Project-Id-Version: Eagle ERP Server 12.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-19 08:20+0000\n"
 "PO-Revision-Date: 2018-12-19 08:20+0000\n"
@@ -204,7 +204,7 @@ msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_call_to_action
-msgid "<b>50,000+ companies</b> run Odoo to grow their businesses."
+msgid "<b>50,000+ companies</b> run Eagle ERP to grow their businesses."
 msgstr ""
 
 #. module: website
@@ -816,7 +816,7 @@ msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "Analyze the efficiency of your marketing campaigns by using trackable UTM trackers (campaigns, medium, sources). Create trackers and follow clicks from the Promote menu of your website. Those trackers can be used in Google Analytics or in Odoo reports where you can see the opportunities and sales revenue generated thanks to your links."
+msgid "Analyze the efficiency of your marketing campaigns by using trackable UTM trackers (campaigns, medium, sources). Create trackers and follow clicks from the Promote menu of your website. Those trackers can be used in Google Analytics or in Eagle ERP reports where you can see the opportunities and sales revenue generated thanks to your links."
 msgstr ""
 
 #. module: website
@@ -1794,7 +1794,7 @@ msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "Follow your website traffic in Odoo."
+msgid "Follow your website traffic in Eagle ERP."
 msgstr ""
 
 #. module: website
@@ -2300,7 +2300,7 @@ msgstr ""
 #. openerp-web
 #: code:addons/website/static/src/js/content/website_root.js:270
 #, python-format
-msgid "It might be possible to edit the relevant items or fix the issue in <a href=\"%s\">the classic Odoo interface</a>"
+msgid "It might be possible to edit the relevant items or fix the issue in <a href=\"%s\">the classic Eagle ERP interface</a>"
 msgstr ""
 
 #. module: website
@@ -2843,47 +2843,47 @@ msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.brand_promotion
-msgid "Odoo"
+msgid "Eagle ERP"
 msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 1 for three columns"
+msgid "Eagle ERP - Sample 1 for three columns"
 msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 2 for three columns"
+msgid "Eagle ERP - Sample 2 for three columns"
 msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_three_columns
-msgid "Odoo - Sample 3 for three columns"
+msgid "Eagle ERP - Sample 3 for three columns"
 msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.show_website_info
-msgid "Odoo Version"
+msgid "Eagle ERP Version"
 msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_quotes_carousel
-msgid "Odoo provides essential platform for our project management. Things are better organized and more visible with it."
+msgid "Eagle ERP provides essential platform for our project management. Things are better organized and more visible with it."
 msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_picture
-msgid "Odoo • A picture with a caption"
+msgid "Eagle ERP • A picture with a caption"
 msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_image_text
-msgid "Odoo • Image and Text"
+msgid "Eagle ERP • Image and Text"
 msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_text_image
-msgid "Odoo • Text and Image"
+msgid "Eagle ERP • Text and Image"
 msgstr ""
 
 #. module: website
@@ -4532,7 +4532,7 @@ msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.show_website_info
-msgid "instance of Odoo, the"
+msgid "instance of Eagle ERP, the"
 msgstr ""
 
 #. module: website
@@ -4591,7 +4591,7 @@ msgstr ""
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.res_config_settings_view_form
-msgid "www.odoo.com"
+msgid "www.eagle-erp.com"
 msgstr ""
 
 #. module: website

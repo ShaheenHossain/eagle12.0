@@ -16,7 +16,7 @@ class MailBot(models.AbstractModel):
             elif odoobot_state == "onboarding_canned" and values.get("canned_response_ids"):
                 self.env.user.odoobot_state = "idle"
                 return _("Good, you can customize canned responses in the live chat application.<br/><br/><b>It's the end of this overview</b>, enjoy discovering Odoo!")
-            #repeat question if needed
+            #repeat question if neededOdoo
             elif odoobot_state == 'onboarding_canned':
                 return _("Not sure wat you are doing. Please press : and wait for the propositions. Select one of them and press enter.")
         return super(MailBot, self)._get_answer(record, body, values, command)
