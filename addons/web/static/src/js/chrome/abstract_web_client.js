@@ -88,7 +88,7 @@ var AbstractWebClient = Widget.extend(ServiceProviderMixin, KeyboardNavigationMi
         set_title_part: '_onSetTitlePart',
     },
     init: function (parent) {
-        // a flag to determine that odoo is fully loaded
+        // a flag to determine that Eagle ERP is fully loaded
         odoo.isReady = false;
         this.client_options = {};
         this._super(parent);
@@ -98,7 +98,7 @@ var AbstractWebClient = Widget.extend(ServiceProviderMixin, KeyboardNavigationMi
         this._current_state = null;
         this.menu_dm = new concurrency.DropMisordered();
         this.action_mutex = new concurrency.Mutex();
-        this.set('title_part', {"zopenerp": "Odoo"});
+        this.set('title_part', {"zopenerp": "Eagle ERP"});
     },
     start: function () {
         var self = this;
@@ -198,7 +198,7 @@ var AbstractWebClient = Widget.extend(ServiceProviderMixin, KeyboardNavigationMi
                     delete window.onOriginError;
                 } else {
                     crash_manager.show_error({
-                        type: _t("Odoo Client Error"),
+                        type: _t("Eagle ERP Client Error"),
                         message: _t("Unknown CORS error"),
                         data: {debug: _t("An unknown CORS error occured. The error probably originates from a JavaScript file served from a different origin. (Opening your browser console might give you a hint on the error.)")},
                     });
@@ -206,7 +206,7 @@ var AbstractWebClient = Widget.extend(ServiceProviderMixin, KeyboardNavigationMi
             } else {
                 var traceback = error ? error.stack : '';
                 crash_manager.show_error({
-                    type: _t("Odoo Client Error"),
+                    type: _t("Eagle ERP Client Error"),
                     message: message,
                     data: {debug: file + ':' + line + "\n" + _t('Traceback:') + "\n" + traceback},
                 });
