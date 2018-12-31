@@ -54,8 +54,8 @@
     <p><strong>Program:</strong></p>
     <p>Conferences, workshops and trainings will be organized in 6 rooms:</p>
     <ul>
-    <li>2 technical rooms: one dedicated to advanced Odoo developers, one for new developers.</li>
-    <li>2 technical rooms: one dedicated to advanced Odoo developers, one for new developers.</li>
+    <li>2 technical rooms: one dedicated to advanced Eagle ERP developers, one for new developers.</li>
+    <li>2 technical rooms: one dedicated to advanced Eagle ERP developers, one for new developers.</li>
     <li>1 business room: to discuss implementation methodologies, best sales practices, etc.</li>
     <li>1 workshop room: mainly for developers.</li>
     </ul>
@@ -106,7 +106,7 @@
     <p>&nbsp;</p>
     <p><strong>Where to find us:</strong></p>
     <p>Chamber Works 60, Rosewood Court Detroit, MI 48212 (United States)</p>
-    <p>For any additional information, please contact us at <a href="mailto:events@odoo.com">events@odoo.com</a>.</p>
+    <p>For any additional information, please contact us at <a href="mailto:eagle.it.services.com@gmail.com">eagle.it.services.com@gmail.com</a>.</p>
     <p>&nbsp;</p>
     <p>Best regards,</p>
     <p>Luigi Roni, Senior Event Manager</p>
@@ -121,7 +121,7 @@
 
     <record id="reg_2_0" model="event.registration">
         <field name="name">Camptocamp</field>
-        <field name="email">odoo@camptocamp.com</field>
+        <field name="email">eagle.it.services.com@gmail.com</field>
         <field name="phone">+41 21 619 10 04 </field>
         <field name="event_id" ref="event_2"/>
         <field name="partner_id" ref="base.res_partner_12"/>
