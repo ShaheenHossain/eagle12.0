@@ -31,3 +31,30 @@ For a standard installation please follow the <a href="https://www.odoo.com/docu
 from the documentation.
 
 Then follow <a href="https://www.odoo.com/documentation/master/tutorials.html">the developer tutorials</a>
+
+
+addons/web/views/webclient_templates.xml 
+addons/web_settings_dashboard/static/src/xml/dashboard.xml 
+addons/mass_mailing/views/unsubscribe_templates.xml 
+addons/web/views/database_manager.html 
+addons/survey/views/survey_templates.xml 
+odoo/http.py 
+addons/delivery/data/mail_template_data.xml 
+addons/crm/data/mail_template_data.xml 
+addons/mail/data/mail_data.xml 
+addons/mail/static/src/xml/client_action.xml 
+addons/web/static/src/js/services/crash_manager.js 
+addons/auth_signup/views/auth_signup_login_templates.xml 
+addons/base_setup/i18n/base_setup.pot 
+addons/base_setup/views/res_config_settings_views.xml 
+addons/web/static/src/js/chrome/abstract_web_client.js 
+odoo/addons/base/ir/ir_ui_menu_view.xml 
+doc/_extensions/odoo_ext/layout.html 
+addons/iap/models/iap.py 
+addons/website/views/website_templates.xml 
+addons/website/static/src/xml/website.backend.xml 
+addons/website_links/views/website_links_template.xml 
+addons/website_event_track/data/event_demo.xml 
+addons/website_event/data/event_demo.xml 
+addons/event/data/event_demo.xml -done
+addons/web/controllers/main.py -done
